@@ -47,10 +47,10 @@
     <summary>:zap: github activity</summary>
 
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/2tacey/exeter-selfbot-source-code/issues/8) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
-2. 💪 Opened PR [#14](https://github.com/2tacey/exeter-selfbot-source-code/pull/14) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
-3. ❗️ Opened issue [#22168](https://github.com/atom/atom/issues/22168) in [atom/atom](https://github.com/atom/atom)
-4. 🗣 Commented on [#6](https://github.com/lunaboards-dev/Zorya-NEO/issues/6) in [lunaboards-dev/Zorya-NEO](https://github.com/lunaboards-dev/Zorya-NEO)
-5. 💪 Opened PR [#1](https://github.com/S0ty/S0ty.github.io/pull/1) in [S0ty/S0ty.github.io](https://github.com/S0ty/S0ty.github.io)
+1. 🗣 Commented on [#14](https://github.com/2tacey/exeter-selfbot-source-code/issues/14) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
+2. 🗣 Commented on [#8](https://github.com/2tacey/exeter-selfbot-source-code/issues/8) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
+3. 💪 Opened PR [#14](https://github.com/2tacey/exeter-selfbot-source-code/pull/14) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
+4. ❗️ Opened issue [#22168](https://github.com/atom/atom/issues/22168) in [atom/atom](https://github.com/atom/atom)
+5. 🗣 Commented on [#6](https://github.com/lunaboards-dev/Zorya-NEO/issues/6) in [lunaboards-dev/Zorya-NEO](https://github.com/lunaboards-dev/Zorya-NEO)
     <!--END_SECTION:activity-->
 </details>
