@@ -47,10 +47,10 @@
     <summary>:zap: github activity</summary>
 
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/AlexzanderFlores/WOKCommands/issues/100) in [AlexzanderFlores/WOKCommands](https://github.com/AlexzanderFlores/WOKCommands)
-2. ❗️ Opened issue [#90](https://github.com/atlx/discord-term/issues/90) in [atlx/discord-term](https://github.com/atlx/discord-term)
-3. ❗️ Opened issue [#1](https://github.com/aznguymp4/bad-apple-discord/issues/1) in [aznguymp4/bad-apple-discord](https://github.com/aznguymp4/bad-apple-discord)
-4. 🗣 Commented on [#14](https://github.com/2tacey/exeter-selfbot-source-code/issues/14) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
-5. 🗣 Commented on [#8](https://github.com/2tacey/exeter-selfbot-source-code/issues/8) in [2tacey/exeter-selfbot-source-code](https://github.com/2tacey/exeter-selfbot-source-code)
+1. 🗣 Commented on [#2](https://github.com/evaan/rushercrack/issues/2) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
+2. 🗣 Commented on [#15](https://github.com/evaan/rushercrack/issues/15) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
+3. 🗣 Commented on [#100](https://github.com/AlexzanderFlores/WOKCommands/issues/100) in [AlexzanderFlores/WOKCommands](https://github.com/AlexzanderFlores/WOKCommands)
+4. ❗️ Opened issue [#90](https://github.com/atlx/discord-term/issues/90) in [atlx/discord-term](https://github.com/atlx/discord-term)
+5. ❗️ Opened issue [#1](https://github.com/aznguymp4/bad-apple-discord/issues/1) in [aznguymp4/bad-apple-discord](https://github.com/aznguymp4/bad-apple-discord)
     <!--END_SECTION:activity-->
 </details>
