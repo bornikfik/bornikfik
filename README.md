@@ -30,27 +30,17 @@
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
-<br />
-<br />
-
-<details>
-<summary>⚡ Github stats</summary>
-
-<img align="left" alt="my github stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=bornikfik&show_icons=true&hide_border=true" />
-</details>
-
-<br />
-<br />
+<br/><br/>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=evaan&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaan&theme=dark&layout=compact)
 
 <details>
     <summary>:zap: github activity</summary>
-
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/evaan/rushercrack/issues/2) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
-2. 🗣 Commented on [#15](https://github.com/evaan/rushercrack/issues/15) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
-3. 🗣 Commented on [#100](https://github.com/AlexzanderFlores/WOKCommands/issues/100) in [AlexzanderFlores/WOKCommands](https://github.com/AlexzanderFlores/WOKCommands)
-4. ❗️ Opened issue [#90](https://github.com/atlx/discord-term/issues/90) in [atlx/discord-term](https://github.com/atlx/discord-term)
-5. ❗️ Opened issue [#1](https://github.com/aznguymp4/bad-apple-discord/issues/1) in [aznguymp4/bad-apple-discord](https://github.com/aznguymp4/bad-apple-discord)
-    <!--END_SECTION:activity-->
+        <!--START_SECTION:activity-->
+        1. 🗣 Commented on [#2](https://github.com/evaan/rushercrack/issues/2) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
+        2. 🗣 Commented on [#15](https://github.com/evaan/rushercrack/issues/15) in [evaan/rushercrack](https://github.com/evaan/rushercrack)
+        3. 🗣 Commented on [#100](https://github.com/AlexzanderFlores/WOKCommands/issues/100) in [AlexzanderFlores/WOKCommands](https://github.com/AlexzanderFlores/WOKCommands)
+        4. ❗️ Opened issue [#90](https://github.com/atlx/discord-term/issues/90) in [atlx/discord-term](https://github.com/atlx/discord-term)
+        5. ❗️ Opened issue [#1](https://github.com/aznguymp4/bad-apple-discord/issues/1) in [aznguymp4/bad-apple-discord](https://github.com/aznguymp4/bad-apple-discord)
+        <!--END_SECTION:activity-->
 </details>
