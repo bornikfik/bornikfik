@@ -31,8 +31,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/><br/>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=evaan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaan&theme=dark&layout=compact)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=bornikfik&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bornikfik&theme=dark&layout=compact)
 
 <details>
     <summary>:zap: github activity</summary>
